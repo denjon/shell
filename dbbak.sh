@@ -1,4 +1,5 @@
 #! /bin/bash
+#written by denjon 2015-05-07
 t=`date +%Y%m%d`
 www=www_$t.sql
 bbs=bbs_$t.sql
